@@ -1,3 +1,9 @@
+#UPDATE
+
+This version of eccrypto was created to overcome some issues of the library. Those issue were notified to the author but we couldn't wait for him to fix them so we forked the project.
+Now, in version 1.1.5 of eccrypto, the fixes we made were included, so now it is safe to use the published version of eccrypto instead of this fork
+
+
 # eccrypto [![Build Status](https://travis-ci.org/bitchan/eccrypto.svg?branch=master)](https://travis-ci.org/bitchan/eccrypto)
 
 [![NPM](https://nodei.co/npm/eccrypto.png)](https://www.npmjs.com/package/eccrypto)
